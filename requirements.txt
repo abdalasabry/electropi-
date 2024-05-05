@@ -7,3 +7,4 @@ transformers
 huggingface-hub
 sentencepiece
 bitsandbytes
+gradio
